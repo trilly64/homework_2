@@ -1,0 +1,25 @@
+
+body {
+	background-color: #eceff1;
+	width: 100%;
+}
+.value {
+	margin: auto; 
+	background-color: white;
+	width: 500px;
+	padding: 20px 40px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	margin-top: 3px; 
+	margin-bottom: 30px;
+}
+.head  {
+	text-align: center;
+}
+a, p, div {
+	text-align: left;
+	font-size: 15px;
+	padding: 5px;
+}
+ul {
+	padding-left: 70px;
+}
